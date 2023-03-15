@@ -1,3 +1,6 @@
-# QGIS styles
+# QGIS Ogham Symbol
 
-Style collections for QGIS Resource Sharing plugin. You can add it to your repo list: https://github.com/alinager/qgis-styles.git
+This Symbol ist based on the "suggested icon with the inscription reading "OSM" (from bottom to top)" by b-unicycling (Anne-Karoline Distel).
+
+* https://wiki.openstreetmap.org/wiki/Proposed_features/ogham_stone
+* https://wiki.openstreetmap.org/wiki/File:Ogham_stone.svg
